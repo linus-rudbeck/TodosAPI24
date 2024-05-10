@@ -1,0 +1,6 @@
+@TodosAPI24_HostAddress = http://localhost:5270
+
+GET {{TodosAPI24_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
